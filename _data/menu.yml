@@ -4,14 +4,5 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Misc"
-  href: "/misc/"
-
-- title: "Blog"
-  href: "/blog/"
-
-  # subcategories:
-  #  - subtitle: "Item 1"
-  #    subhref: "/miscellany/item-1/"
-  #  - subtitle: "Item 2"
-  #    subhref: "/miscellany/item-2/"
+- title: "About"
+  href: "/about/"
